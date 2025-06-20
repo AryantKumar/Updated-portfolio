@@ -1,2 +1,2 @@
 *.dart linguist-detectable=true
-web/* linguist-vendored
+/web/* linguist-vendored
