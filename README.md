@@ -1,6 +1,6 @@
 # Updated Portfolio App (Flutter)
 
-A sleek, modern Flutter portfolio showcasing my projects, skills, and photography work. Built using Flutter with Material 3 and fully responsive design. Supports dark and light modes, animated transitions,.
+A sleek, modern Flutter portfolio app showcasing my projects, skills, and photography work. This is an upgraded version of my previous Kotlin portfolio, rebuilt using Flutter with Material 3, responsive design, dark/light theme support, and smooth animated transitions.
 
 ## ✨ Features
 
